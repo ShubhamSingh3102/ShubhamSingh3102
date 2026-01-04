@@ -81,6 +81,14 @@
 </p>
 
 
+<h2 align="center"> 🧬 Developer DNA </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-DSA%20Focused-00e5ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Thinking-Scalable%20Design-7c4dff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Mindset%20Driven-00c853?style=for-the-badge" />
+</p>
+
+
 <h2 align="center">🐍 Contribution Journey</h2>
 
 <p align="center">
