@@ -11,14 +11,34 @@
 </p>
 
 
-## 💫 About Me
+<h2>💫 About Me</h2>
 
-- 🚀 **I’m currently building:** Scalable DSA-driven solutions, crafting clean full-stack products, and transforming ideas into production-ready code.
-- 🤝 **Open to collaborating on:** Impact-focused open-source projects, developer tools, and modern Web / AI products that solve real problems.
-- 🧠 **Looking for help with:** Designing scalable architectures, backend performance tuning, and industry-grade system design.
-- 🌱 **Actively learning:** Advanced Data Structures & Algorithms, React + Node.js ecosystems, and software engineering best practices.
-- 💡 **Ask me about:** Problem-solving strategies, Java & JavaScript, GitHub workflows, and turning concepts into real products.
-- ⚡ **Fun fact:** I don’t just write code — I engineer experiences, optimize logic, and ship solutions that actually matter 🚀
+<table>
+  <tr>
+    <!-- LEFT: About Me Text -->
+    <td width="65%" valign="top">
+
+- 🚀 <b>I’m currently building:</b> Scalable DSA-driven solutions, crafting clean full-stack products, and transforming ideas into production-ready code.  
+- 🤝 <b>Open to collaborating on:</b> Impact-focused open-source projects, developer tools, and modern Web / AI products that solve real problems.  
+- 🧠 <b>Looking for help with:</b> Designing scalable architectures, backend performance tuning, and industry-grade system design.  
+- 🌱 <b>Actively learning:</b> Advanced Data Structures & Algorithms, React + Node.js ecosystems, and software engineering best practices.  
+- 💡 <b>Ask me about:</b> Problem-solving strategies, Java & JavaScript, GitHub workflows, and turning concepts into real products.  
+- ⚡ <b>Fun fact:</b> I don’t just write code — I engineer experiences, optimize logic, and ship solutions that actually matter 🚀  
+
+    </td>
+
+    <!-- RIGHT: Image -->
+    <td width="35%" align="center">
+      <img 
+        src="https://i.imgur.com/6XGQJ0N.png"
+        width="260"
+        style="border-radius: 18px; box-shadow: 0 0 20px rgba(0,255,255,0.35);"
+        alt="developer avatar"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
