@@ -1,6 +1,11 @@
-# 💫 About Me:
-🚀 I’m currently building<br><br>Scalable DSA-driven solutions, crafting clean full-stack products, and transforming ideas into production-ready code.<br><br>🤝 Open to collaborating on<br><br>Impact-focused open-source projects, developer tools, and modern Web / AI products that solve real problems.<br><br>🧠 Looking for help with<br><br>Designing scalable architectures, backend performance tuning, and industry-grade system design.<br><br>🌱 Actively learning<br><br>Advanced Data Structures & Algorithms, React + Node.js ecosystems, and software engineering best practices.<br><br>💡 Ask me about<br><br>Problem-solving strategies, Java & JavaScript, GitHub workflows, and turning concepts into real products.<br><br>⚡ Fun fact<br><br>I don’t just write code — I engineer experiences, optimize logic, and ship solutions that actually matter 🚀
+## 💫 About Me
 
+- 🚀 **I’m currently building:** Scalable DSA-driven solutions, crafting clean full-stack products, and transforming ideas into production-ready code.
+- 🤝 **Open to collaborating on:** Impact-focused open-source projects, developer tools, and modern Web / AI products that solve real problems.
+- 🧠 **Looking for help with:** Designing scalable architectures, backend performance tuning, and industry-grade system design.
+- 🌱 **Actively learning:** Advanced Data Structures & Algorithms, React + Node.js ecosystems, and software engineering best practices.
+- 💡 **Ask me about:** Problem-solving strategies, Java & JavaScript, GitHub workflows, and turning concepts into real products.
+- ⚡ **Fun fact:** I don’t just write code — I engineer experiences, optimize logic, and ship solutions that actually matter 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shubham Rajpoot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/modeler_momentum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham Kumar Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham18singh07@gmail.com) 
