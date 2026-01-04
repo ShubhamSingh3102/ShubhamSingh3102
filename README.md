@@ -70,6 +70,24 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamSingh3102&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🐍 Contribution :
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitishh07/nitishh07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitishh07/nitishh07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitishh07/nitishh07/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nitishh07&icon=0&color=0" alt="Visit Count" />
+</p>
+
 
 ## 📈 Contribution Activity
 
