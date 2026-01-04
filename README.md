@@ -30,7 +30,7 @@
     <!-- RIGHT: Image -->
     <td width="35%" align="center">
       <img 
-        src="https://i.imgur.com/6XGQJ0N.png"
+        src="https://avatars.githubusercontent.com/u/83103069?v=4"
         width="260"
         style="border-radius: 18px; box-shadow: 0 0 20px rgba(0,255,255,0.35);"
         alt="developer avatar"
