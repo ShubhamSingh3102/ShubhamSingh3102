@@ -9,7 +9,6 @@
 
 ## 🌐 Connect with me
 
-## 🌐 Connect with me
 
 <p align="left">
   <a href="https://github.com/ShubhamSingh3102">
