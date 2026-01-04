@@ -13,11 +13,13 @@
   <i>“Turning curiosity into code, and code into impact.”</i>
 </p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamSingh3102&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="ShubhamSingh3102" />
-  </a>
-</div>
+<h2 align="center">📊 GitHub Performance</h2>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh3102&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSingh3102&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 <h2>💫 About Me</h2>
