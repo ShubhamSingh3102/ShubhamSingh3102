@@ -54,7 +54,12 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## ## Hi there 👋 I’m Shubham Singh — building scalable solutions, one problem at a time.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <strong>✨ Hi, I’m <span style="color:#58A6FF;">Shubham Singh</span></strong><br/>
+  <em>Building scalable solutions, one problem at a time.</em>
+</p>
+
 
 
 <!--
