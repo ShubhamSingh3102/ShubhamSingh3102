@@ -15,6 +15,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamSingh3102&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShubhamSingh3102&theme=radical&no-frame=true&row=1&column=6)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
