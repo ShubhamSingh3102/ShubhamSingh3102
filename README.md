@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=700&lines=DSA+%7C+Full+Stack+%7C+Problem+Solver;Learning+%7C+Building+%7C+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&color=FF0000&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
