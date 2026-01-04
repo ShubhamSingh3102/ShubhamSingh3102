@@ -30,7 +30,7 @@
     <!-- RIGHT: Image -->
     <td width="35%" align="center">
       <img 
-        src="https://avatars.githubusercontent.com/u/83103069?v=4"
+        src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"
         width="260"
         style="border-radius: 18px; box-shadow: 0 0 20px rgba(0,255,255,0.35);"
         alt="developer avatar"
