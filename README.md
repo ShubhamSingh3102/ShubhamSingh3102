@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&color=FF0000&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&color=FF3B3B&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
 </p>
 
+<h1 align="center">Hi 👋, I'm <span style="color:#58A6FF;">Shubham Singh</span></h1>
 
-<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 
 <p align="center">
   I look forward to absorbing knowledge 🧠, gaining experience 🚀, collaborating 🤝,<br/>
