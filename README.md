@@ -49,7 +49,8 @@
 
 ## 📈 Contribution Activity
 
-![Contribution Wave](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh3102&layout=compact&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh3102&theme=react-dark&hide_border=true)
+
 
 
 
