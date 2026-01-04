@@ -7,24 +7,18 @@
 - 💡 **Ask me about:** Problem-solving strategies, Java & JavaScript, GitHub workflows, and turning concepts into real products.
 - ⚡ **Fun fact:** I don’t just write code — I engineer experiences, optimize logic, and ship solutions that actually matter 🚀
 
+
+
 ## 🌐 Connect with me
 
 
-<p align="left">
-  <a href="https://github.com/ShubhamSingh3102">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/shubham-kumar-singh-aa00232b0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/CodingHacker180745/">
-    <img src="https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://codeforces.com/profile/shubham_rajput0071">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
-  </a>
-</p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ShubhamSingh3102)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham-kumar-singh-aa00232b0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/CodingHacker180745/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/shubham_rajput0071)
+
+---
 
 
 
