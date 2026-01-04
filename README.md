@@ -8,8 +8,12 @@
 - ⚡ **Fun fact:** I don’t just write code — I engineer experiences, optimize logic, and ship solutions that actually matter 🚀
 
 ## 🌐 Connect with me
+
+<a href="https://github.com/ShubhamSingh3102">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
 <a href="https://linkedin.com/in/shubham-kumar-singh-aa00232b0">
-  <img src="https://skillicons.dev/icons?i=linkedin&perline=1" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://leetcode.com/u/CodingHacker180745/">
   <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
