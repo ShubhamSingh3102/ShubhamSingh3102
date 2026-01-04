@@ -88,9 +88,12 @@
   <img src="https://img.shields.io/badge/Learning-Mindset%20Driven-00c853?style=for-the-badge" />
 </p>
 
+## 🧩 Problem Solving (LeetCode)
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodingHacker180745?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
 </p>
+
 
 
 <h2 align="center">🐍 Contribution Journey</h2>
