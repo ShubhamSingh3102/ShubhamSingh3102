@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+
+<p align="center">
+  I look forward to absorbing knowledge 🧠, gaining experience 🚀, collaborating 🤝,<br/>
+  and building impactful products 🌍 for the real world.
+</p>
+
+
 ## 💫 About Me
 
 - 🚀 **I’m currently building:** Scalable DSA-driven solutions, crafting clean full-stack products, and transforming ideas into production-ready code.
