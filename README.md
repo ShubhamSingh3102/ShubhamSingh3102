@@ -49,13 +49,8 @@
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh3102&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![Contribution Wave](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh3102&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShubhamSingh3102&theme=radical&hide_border=true" />
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## ## Hi there 👋 I’m Shubham Singh — building scalable solutions, one problem at a time.
