@@ -2,12 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&color=FF0000&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Shubham%20Singh&fontSize=48&animation=fadeIn" />
+</h1>
 
 <p align="center">
-  I look forward to absorbing knowledge 🧠, gaining experience 🚀, collaborating 🤝,<br/>
-  and building impactful products 🌍 for the real world.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=DSA+Driven+Developer;Full+Stack+Engineer;Building+Impactful+Products;Learning.+Building.+Shipping." />
+</p>
+
+<p align="center">
+  <i>“Turning curiosity into code, and code into impact.”</i>
 </p>
 
 
