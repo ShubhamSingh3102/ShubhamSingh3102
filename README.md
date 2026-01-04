@@ -56,8 +56,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <strong>✨ Hi, I’m <span style="color:#58A6FF;">Shubham Singh</span></strong><br/>
-  <em>Building scalable solutions, one problem at a time.</em>
+  ⚡ <b>Building today what others will use tomorrow.</b>
 </p>
 
 
