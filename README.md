@@ -70,7 +70,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamSingh3102&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🐍 Contribution :
 
 <h2 align="center">🐍 Contribution Journey</h2>
 
@@ -89,9 +88,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nitishh07&icon=0&color=0" alt="Visit Count" />
-</p>
+
 
 
 ## 📈 Contribution Activity
