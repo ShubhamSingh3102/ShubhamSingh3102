@@ -10,11 +10,6 @@
   and building impactful products 🌍 for the real world.
 </p>
 
-## 📊 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamSingh3102&show_icons=true&theme=radical)
-
-
 
 ## 💫 About Me
 
@@ -51,6 +46,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamSingh3102&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamSingh3102&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## ## Hi there 👋 I’m Shubham Singh — building scalable solutions, one problem at a time.
 
