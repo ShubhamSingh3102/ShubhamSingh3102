@@ -72,9 +72,14 @@
 
 ### 🐍 Contribution :
 
+<h2 align="center">🐍 Contribution Journey</h2>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=salmanabdullahfahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanabdullahfahim&theme=tokyonight&hide_border=true&background=0D1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitishh07/nitishh07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitishh07/nitishh07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitishh07/nitishh07/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 
