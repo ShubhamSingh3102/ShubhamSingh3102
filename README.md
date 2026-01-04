@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&color=FF0000&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 
 <p align="center">
