@@ -10,6 +10,11 @@
   and building impactful products 🌍 for the real world.
 </p>
 
+## 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamSingh3102&show_icons=true&theme=radical)
+
+
 
 ## 💫 About Me
 
