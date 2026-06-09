@@ -67,7 +67,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShubhamSingh3102&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamSingh3102&theme=dark&hide_border=false)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShubhamSingh3102&theme=dark&hide_border=false" />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh3102&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
